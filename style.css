@@ -13,10 +13,10 @@
     font-size: 20px;
     margin-top: 50px;
 }
-.banne-img{
+.banner-img{
 
     width: 635px;
-    height: 800px;
+    height: 750px;
     /* margin: 1045px 50px 0px 240px; */
     margin-bottom: 0px;
 }
@@ -29,7 +29,7 @@
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
-    padding-bottom: 0px;
+   
 
 
 }
@@ -257,9 +257,12 @@ margin-top: 100px;
 
 }
 .flower-1{
+    /* height: 428px; */
+    display: flex;
+    align-items: end;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    padding: 110px 50px 0px 50px;
+    padding: 120px 50px 0px 50px;
 }
 .flower-2{
     border-radius: 300px 300px 0px 0px;
@@ -267,6 +270,8 @@ margin-top: 100px;
     padding: 110px 50px 50px 50px
 }
 .flower-3{
+    display: flex;
+    align-items: end;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 120px 50px 0px 50px;
